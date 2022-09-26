@@ -1,0 +1,50 @@
+\documentclass{beamer}
+\usetheme{Antibes}
+\usepackage{graphicx}
+
+\title{my first presentation}
+\author{vennela }
+\date{September 2022}
+
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}{Self introduction}
+\centering{\includegraphics[height=2cm,width=2cm]{.jpeg}}
+\begin{enumerate}
+    \item name:vennela
+    \item address:kamareddy
+    \item study: engg 1st in IIIT basara
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{About my campus RGUKT}
+%\section{here we disscuss about our rgukt}
+\begin{block}{beauty of rgukt}
+\begin{itemize}
+    \item it is very beautiful campus with all the facilities
+    \item it is a 6 years integrated course
+    \item with the best campus placement technology
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{education}
+\begin{table}
+\caption{important table}
+\begin{tabular}{|c|c|c|}
+\hline
+   sno  & category & dept\\
+   \hline
+    1  & puc & p1  \& p2\\
+    \hline
+    2  & engg & e1 \& e2 \& e3 \& e4\\
+    \hline
+\end{tabular}
+\end{table}
+\end{frame}
+
+\end{document}
+ 
