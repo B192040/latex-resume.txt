@@ -1,0 +1,44 @@
+documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\title{RESUME}
+\author{kudumula vennela}
+\date{September 2022}
+
+\begin{document}
+\begin{figure}
+\centering
+\includegraphics[width=5cm,length=5cm]{venni.jpeg}
+\end{figure}
+
+\section{\textit{\color{red}{RESUME}}}
+\section{\color{red}{personal informtion}}
+Name:vennela\\
+class:E1 sem2\\
+dept: computer science and engineering\\
+address:kamareddy\\
+\section{\textit{\color{red}{GRADES}}}
+\begin{tabular}{|c|c|c|}
+\hline
+s.no&yearandsem&grades\\
+\hline
+1&p1s1&9.2\\
+\hline
+2&p1s2&8.9\\
+\hline
+3&p2s1&8.7\\
+\hline
+\end{tabular}
+\section{\color{red}{HOBBIES}}
+\begin{enumerate}
+\item reading books
+\item playing
+\item drawing
+\end{enumerate}
+\section{\color{red}{ACHIEVEMENTS}}
+\begin{itemize}
+\item achieved 10 gpa in 10th
+\item got  a certificate in drawing compitation 
+\end{itemize}
+\end{document}
